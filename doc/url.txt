@@ -1,0 +1,4 @@
+Source repository:
+  git@github.com:maumss/javafx-property-plugin.git
+	https://github.com/maumss/javafx-property-plugin.git
+	https://github.com/maumss/javafx-property-plugin
