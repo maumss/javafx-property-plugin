@@ -10,7 +10,7 @@ This plugin will generate methods using naming conventions that form the JavaFX 
 
 Go to `Tools > Plugins > Downloaded Intalled > Add Plugins...` and add the `javafxpropertyplugin.nbm` file.
 
-##Usage
+## Usage
 
 Just create the atributes, e.g. "private IntegerProperty id;", key `ALT+INS`, and choose the option "JavaFX Property Pattern". This plugin will create the class constructors, the methods "public final Integer getId()", "public final void setId(Integer id)" and "public IntegerProperty idProperty()". 
 
