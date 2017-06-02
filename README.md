@@ -12,13 +12,13 @@ Go to `Tools > Plugins > Downloaded Intalled > Add Plugins...` and add the `java
 
 ## Usage
 
-Just create the atributes, e.g. "private IntegerProperty id;", key `ALT+INS`, and choose the option "JavaFX Property Pattern". This plugin will create the class constructors, the methods "public final Integer getId()", "public final void setId(Integer id)" and "public IntegerProperty idProperty()". 
+Just create the atributes, e.g. "private IntegerProperty id;", key `ALT+INS`, and choose the option "JavaFX Property Pattern". This plugin will create the class constructors, the methods "public final Integer getId()", "public final void setId(Integer id)" and "public IntegerProperty idProperty()".
 
 - Creates class constructors
 - Creates public methods
 
 ## Credits
-Mauricio Soares da Silva - [maumss@users.noreply.github.com](mailto:maumss@users.noreply.github.com)
+[Mauricio Soares da Silva](mailto:maumss.git@gmail.com).
 
 ## License
 
